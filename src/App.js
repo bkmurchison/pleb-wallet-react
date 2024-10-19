@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <h1>Bitcoin Price</h1>
-      <h4>${price}</h4>
+      <h3>${price}</h3>
     </div>
   );
 }
